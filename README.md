@@ -1,6 +1,6 @@
 # 📝 React To-Do List
 
-A sleek, responsive to-do list app built with React, Tailwind CSS, and localStorage. Add, edit, complete, and delete tasks — all with persistent state and smooth UI.
+Tickit is a sleek, responsive to-do list app built with React, Tailwind CSS, and localStorage. Add, edit, complete, and delete tasks — all with persistent state and smooth UI.
 
 ## 🚀 Features
 
